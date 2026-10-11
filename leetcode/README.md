@@ -1,2 +1,24 @@
-# CodeHub 
 A collection of LeetCode questions to ace the coding interview! - Created using [CodeHub](https://github.com/rishijain07/CodeHub)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Math
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+<!---LeetCode Topics End-->
