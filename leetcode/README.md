@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
 <!---LeetCode Topics End-->
