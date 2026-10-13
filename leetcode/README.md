@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0001-two-sum) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0001-two-sum) |
 <!---LeetCode Topics End-->
