@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1791-richest-customer-wealth) |
@@ -42,7 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1791-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
