@@ -3,7 +3,7 @@ class Solution {
         int n = mat.length;
         int m = mat[0].length;
 
-       
+        // Create a copy of the matrix to store original values
         int[][] temp = new int[n][m];
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
