@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1791-richest-customer-wealth) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
