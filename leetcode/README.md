@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
 | [0498-diagonal-traverse](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0777-toeplitz-matrix) |
+| [1539-diagonal-traverse-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1539-diagonal-traverse-ii) |
 | [1677-matrix-diagonal-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1878-check-if-array-is-sorted-and-rotated) |
@@ -77,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
+| [1539-diagonal-traverse-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1539-diagonal-traverse-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1539-diagonal-traverse-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1539-diagonal-traverse-ii) |
 <!---LeetCode Topics End-->
