@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
 | [0498-diagonal-traverse](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0777-toeplitz-matrix) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0119-pascals-triangle-ii) |
 ## Combinatorics
 |  |
 | ------- |
