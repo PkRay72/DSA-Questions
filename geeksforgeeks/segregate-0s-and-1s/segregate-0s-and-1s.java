@@ -15,22 +15,34 @@ class Solution {
         // for(int i = noOfzeros; i < arr.length; i++){
         //     arr[i] = 1;
         // }
-        int n1=0;
-        int n0=0;
-        for(int el:arr){
-            if(el==0){
-                n0++;
-            }else{
-                n1++;
-            }
-        }
-        for(int i=0;i<n0;i++){
-            arr[i]=0;
-        }
-        for(int i=n0;i<arr.length;i++){
-            arr[i]=1;
-        }
         
+        
+        // int n1=0;
+        // int n0=0;
+        // for(int el:arr){
+        //     if(el==0){
+        //         n0++;
+        //     }else{
+        //         n1++;
+        //     }
+        // }
+        // for(int i=0;i<n0;i++){
+        //     arr[i]=0;
+        // }
+        // for(int i=n0;i<arr.length;i++){
+        //     arr[i]=1;
+        // }
+        int i=0,j=0;
+        int n=arr.length;
+        while(i<n){
+            if(arr[i]==0){
+                int temp=arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;;
+                j++;
+            }
+            i++;
+        }
     }
 }
 
