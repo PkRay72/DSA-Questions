@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
