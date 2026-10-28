@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1960-check-if-the-sentence-is-pangram) |
 ## Greedy
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
