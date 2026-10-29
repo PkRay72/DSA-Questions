@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
+| [0258-add-digits](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0498-diagonal-traverse) |
 ## String
 |  |
