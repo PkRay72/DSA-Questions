@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
 | [0258-add-digits](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0119-pascals-triangle-ii) |
+| [1013-fibonacci-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1013-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0443-string-compression) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
