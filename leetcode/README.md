@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0383-ransom-note) |
 | [0443-string-compression](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0500-keyboard-row) |
+| [1205-defanging-an-ip-address](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1960-check-if-the-sentence-is-pangram) |
