@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0661-image-smoother](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0777-toeplitz-matrix) |
 | [0948-sort-an-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0948-sort-an-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
