@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0073-set-matrix-zeroes) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0119-pascals-triangle-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0948-sort-an-array) |
 ## Merge Sort
 |  |
