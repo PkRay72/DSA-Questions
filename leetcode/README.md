@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0136-single-number) |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0498-diagonal-traverse) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0443-string-compression) |
