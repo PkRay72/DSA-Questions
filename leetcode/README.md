@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0136-single-number) |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1603-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0136-single-number) |
 <!---LeetCode Topics End-->
