@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0777-toeplitz-matrix) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
