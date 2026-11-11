@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -170,10 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -195,4 +199,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0136-single-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
