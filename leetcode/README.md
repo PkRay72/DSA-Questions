@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2283-sort-even-and-odd-indices-independently) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Math
 |  |
 | ------- |
