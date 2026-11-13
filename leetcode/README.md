@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0136-single-number) |
+| [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0268-missing-number) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0242-valid-anagram) |
@@ -181,12 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
 | [0383-ransom-note](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0383-ransom-note) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1823-determine-if-string-halves-are-alike) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0948-sort-an-array) |
@@ -232,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
 <!---LeetCode Topics End-->
