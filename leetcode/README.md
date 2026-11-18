@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0661-image-smoother](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0661-image-smoother) |
 | [0777-toeplitz-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0777-toeplitz-matrix) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0948-sort-an-array) |
 | [1539-diagonal-traverse-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1539-diagonal-traverse-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1603-running-sum-of-1d-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
