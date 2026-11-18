@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0500-keyboard-row) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1013-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0410-split-array-largest-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
