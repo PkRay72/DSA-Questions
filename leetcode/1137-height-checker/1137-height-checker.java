@@ -9,6 +9,6 @@ class Solution {
                 mismatches++;
             }
         }
-        return mismatches++;
+        return mismatches;
     }
 }
