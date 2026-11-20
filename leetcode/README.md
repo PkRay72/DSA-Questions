@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [1539-diagonal-traverse-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1539-diagonal-traverse-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1651-shuffle-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [1539-diagonal-traverse-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1539-diagonal-traverse-ii) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/2283-sort-even-and-odd-indices-independently) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0443-string-compression) |
+| [1019-squares-of-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1894-merge-strings-alternately) |
 ## Recursion
 |  |
