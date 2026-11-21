@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0053-maximum-subarray) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0242-valid-anagram) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1137-height-checker) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
