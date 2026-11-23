@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0500-keyboard-row) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1960-check-if-the-sentence-is-pangram) |
 ## Matrix
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0415-add-strings) |
 | [0443-string-compression](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0500-keyboard-row) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
 | [0383-ransom-note](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1823-determine-if-string-halves-are-alike) |
 ## Divide and Conquer
 |  |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
