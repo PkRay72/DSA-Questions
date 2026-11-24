@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0268-missing-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0383-ransom-note) |
