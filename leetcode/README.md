@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0661-image-smoother](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0661-image-smoother) |
+| [0733-flood-fill](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0777-toeplitz-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0907-koko-eating-bananas) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0661-image-smoother) |
+| [0733-flood-fill](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0777-toeplitz-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1791-richest-customer-wealth) |
@@ -289,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0387-first-unique-character-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0733-flood-fill) |
 <!---LeetCode Topics End-->
