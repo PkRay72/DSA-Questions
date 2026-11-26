@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0540-single-element-in-a-sorted-array) |
 | [0661-image-smoother](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0661-image-smoother) |
+| [0724-find-pivot-index](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0777-toeplitz-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0882-peak-index-in-a-mountain-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
