@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0169-majority-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0125-valid-palindrome) |
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0733-flood-fill) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PkRay72/DSA-Questions/tree/master/LeetCode/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
