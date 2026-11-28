@@ -35,19 +35,29 @@ class Solution {
         // return ans;
 
 
+        // int ans=Integer.MIN_VALUE;
+        // int sum=0;
+        // for(int i=0;i<nums.length;i++){
+        //     sum+=nums[i];
+        //     if(nums[i]>sum){
+        //         sum=nums[i];
+        //     }
+        //     if(sum>ans){
+        //         ans=sum;
+        //     }
+        // }
+        // return ans;
+
         int ans=Integer.MIN_VALUE;
         int sum=0;
         for(int i=0;i<nums.length;i++){
             sum+=nums[i];
             if(nums[i]>sum){
                 sum=nums[i];
-            }
-            if(sum>ans){
+            }if(sum>ans){
                 ans=sum;
             }
         }
         return ans;
-
-        
     }
 }
